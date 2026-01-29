@@ -1,4 +1,4 @@
-# BA820 Project Proposal: Mapping the Economic Burden of Childcare Across US Counties
+# BA820 Project Proposal
 
 Section and Team Number: B1 Team 9
 
